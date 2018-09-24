@@ -1,0 +1,8 @@
+21,Ferari,11
+32,Alfa Romeo,2
+41,Toyota,15
+11,Audi,67
+52,Opel,45
+23,Daewoo,14
+14,Jaguar,31
+92,Honda,18
